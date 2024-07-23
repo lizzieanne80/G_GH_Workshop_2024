@@ -1,5 +1,47 @@
 [
   {
+    "objectID": "peoples_bios/TestT.html",
+    "href": "peoples_bios/TestT.html",
+    "title": "Data Science Tools Workshop",
+    "section": "",
+    "text": "Test T File\nThis the test bio for workshops."
+  },
+  {
+    "objectID": "peoples_bios/Sam_U.html",
+    "href": "peoples_bios/Sam_U.html",
+    "title": "Data Science Tools Workshop",
+    "section": "",
+    "text": "Wants you to make a plan to vote in November!"
+  },
+  {
+    "objectID": "peoples_bios/Sam_U.html#uncle-sam",
+    "href": "peoples_bios/Sam_U.html#uncle-sam",
+    "title": "Data Science Tools Workshop",
+    "section": "",
+    "text": "Wants you to make a plan to vote in November!"
+  },
+  {
+    "objectID": "peoples_bios/Lizzie_Anne.html",
+    "href": "peoples_bios/Lizzie_Anne.html",
+    "title": "Data Science Tools Workshop",
+    "section": "",
+    "text": "Lizzie loves math and is very excited to learn more about Data Science, Tableau, and GitHub!"
+  },
+  {
+    "objectID": "peoples_bios/Lizzie_Anne.html#lizzie-annes-file",
+    "href": "peoples_bios/Lizzie_Anne.html#lizzie-annes-file",
+    "title": "Data Science Tools Workshop",
+    "section": "",
+    "text": "Lizzie loves math and is very excited to learn more about Data Science, Tableau, and GitHub!"
+  },
+  {
+    "objectID": "peoples_bios/George_T_Alto.html",
+    "href": "peoples_bios/George_T_Alto.html",
+    "title": "Data Science Tools Workshop",
+    "section": "",
+    "text": "Tyler George’s Alter Ego\nTyler recieved his PhD in analytics and statistics from Michigan Central University in Spring of 2020."
+  },
+  {
     "objectID": "peoples_bios/George_T.html",
     "href": "peoples_bios/George_T.html",
     "title": "Data Science Tools Workshop",
@@ -7,11 +49,25 @@
     "text": "Tyler received his PhD in statistics and analytics from Central Michigan University. He now teaches statistics and data science at Cornell College in the small town of Mount Vernon, Iowa."
   },
   {
-    "objectID": "peoples_bios/George_T.html#tyler-george.",
-    "href": "peoples_bios/George_T.html#tyler-george.",
+    "objectID": "peoples_bios/George_T.html#tyler-george",
+    "href": "peoples_bios/George_T.html#tyler-george",
     "title": "Data Science Tools Workshop",
     "section": "",
     "text": "Tyler received his PhD in statistics and analytics from Central Michigan University. He now teaches statistics and data science at Cornell College in the small town of Mount Vernon, Iowa."
+  },
+  {
+    "objectID": "Kozak_bio.html",
+    "href": "Kozak_bio.html",
+    "title": "Data Science Tools Workshop",
+    "section": "",
+    "text": "I really want to know how to use github better than I do.\nI have a repo and I have data files. But not sure how to share it."
+  },
+  {
+    "objectID": "Kozak_bio.html#kathryn-kozaks-bio",
+    "href": "Kozak_bio.html#kathryn-kozaks-bio",
+    "title": "Data Science Tools Workshop",
+    "section": "",
+    "text": "I really want to know how to use github better than I do.\nI have a repo and I have data files. But not sure how to share it."
   },
   {
     "objectID": "index.html",
@@ -215,5 +271,54 @@
     "title": "Overview of Git and GitHub",
     "section": "What to expect in the GitHub Workshop?",
     "text": "What to expect in the GitHub Workshop?\n\nGit and GitHub terminology\nHands-on practice collaboration: Fork a repo and complete a pull request\nHelp me fix my typos\nAdditional options for educators\n\n\n\n\n\nData Science Tools, https://bit.ly/DSTools_GGH"
+  },
+  {
+    "objectID": "peoples_bios/beaker.html",
+    "href": "peoples_bios/beaker.html",
+    "title": "Data Science Tools Workshop",
+    "section": "",
+    "text": "Beaker is a chemical assistant at Muppet Labs. Beaker enjoys working in the lab with Dr. Bunsen even volunteering as a subject in some experiments. He has expeirience with mishaps like being blown up, electrocuted, or eaten by monsters. Beaker is fluent in muppet beakeresse and instead communicating with a nervous, high-pitched squeak that sounds like “Mee-mee-mee-mee”."
+  },
+  {
+    "objectID": "peoples_bios/George_T_alter_2.html",
+    "href": "peoples_bios/George_T_alter_2.html",
+    "title": "Data Science Tools Workshop",
+    "section": "",
+    "text": "This is a sentence that was asked for in the workshop."
+  },
+  {
+    "objectID": "peoples_bios/George_T_alter_2.html#tyler-georges-alter-ego-file-2",
+    "href": "peoples_bios/George_T_alter_2.html#tyler-georges-alter-ego-file-2",
+    "title": "Data Science Tools Workshop",
+    "section": "",
+    "text": "This is a sentence that was asked for in the workshop."
+  },
+  {
+    "objectID": "peoples_bios/Homer_S.html",
+    "href": "peoples_bios/Homer_S.html",
+    "title": "Data Science Tools Workshop",
+    "section": "",
+    "text": "Homer S bio\nHomer is a family-centered father who loves his job and definitely does not have a drinking problem."
+  },
+  {
+    "objectID": "peoples_bios/Maddox_J.html",
+    "href": "peoples_bios/Maddox_J.html",
+    "title": "Data Science Tools Workshop",
+    "section": "",
+    "text": "Jessica has been teaching math in Oregon for over a decade. She earned degrees at the University of Virginia, University of Cincinnati, and Randolph-Macon Woman’s College. In her free time she enjoys pickleball and lots of board games."
+  },
+  {
+    "objectID": "peoples_bios/Maddox_J.html#jessica-maddox",
+    "href": "peoples_bios/Maddox_J.html#jessica-maddox",
+    "title": "Data Science Tools Workshop",
+    "section": "",
+    "text": "Jessica has been teaching math in Oregon for over a decade. She earned degrees at the University of Virginia, University of Cincinnati, and Randolph-Macon Woman’s College. In her free time she enjoys pickleball and lots of board games."
+  },
+  {
+    "objectID": "peoples_bios/Shawn_F.html",
+    "href": "peoples_bios/Shawn_F.html",
+    "title": "Data Science Tools Workshop",
+    "section": "",
+    "text": "** Shawn Firouzian The Great **\nTesting The Bio Here."
   }
 ]
